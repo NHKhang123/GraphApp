@@ -1,0 +1,10 @@
+# Ignore IntelliJ IDEA
+.idea/
+*.iml
+out/
+target/
+my-runtime/
+META-INF/
+GraphApplication.iml
+*.log
+*.tmp
