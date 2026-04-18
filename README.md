@@ -19,9 +19,9 @@ hoặc clone repo dự án về từ repo dự án vào thư mục mong muốn
 
 ## Sinh viên thực hiện
 
-| Tên                    | MSSV     | GitHub                                                  |
-| :----------------------| :--------| :-------------------------------------------------------|
-| **Nguyễn Hoàng Khang** | B2303820 | [@NHKhang123]([https://](https://github.com/NHKhang123) |
+| Tên                    | MSSV     | GitHub                                       |
+| :----------------------| :--------| :------------------------------------------- |
+| **Nguyễn Hoàng Khang** | B2303820 | [@NHKhang123](https://github.com/NHKhang123) |
 
 ## Giảng viên
 
