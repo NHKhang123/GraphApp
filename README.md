@@ -12,10 +12,8 @@
 
 ### Thư mục gốc
 
-```
-Tải file .zip từ repo dự án và giải nén vào thư mục mong muốn
-hoặc clone repo dự án về từ repo dự án vào thư mục mong muốn
-```
+- Tải file .zip từ repo dự án và giải nén vào thư mục mong muốn.
+- Hoặc clone repo dự án về từ repo dự án vào thư mục mong muốn.
 
 ## Sử dụng
 
