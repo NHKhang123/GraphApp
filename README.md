@@ -17,7 +17,7 @@
 
 ## Sử dụng
 
-- Chạy file .exe (hoặc file .bat nếu file .exe không khởi chạy được)
+- Chạy file .exe (hoặc file .bat nếu file .exe không khởi chạy được).
 - **Lưu ý: Nếu chạy file .bat thì sau khi thoát ứng dụng nên tắt màn hình cmd (terminal) được mở khi bắt đầu chạy ứng dụng.**
 
 ## Sinh viên thực hiện
