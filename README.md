@@ -25,6 +25,5 @@ hoặc clone repo dự án về từ repo dự án vào thư mục mong muốn
 
 ## Giảng viên hướng dẫn
 
-|                    |
 | :----------------- |
 | ThS Phan Huy Cường |
