@@ -17,6 +17,11 @@ Tải file .zip từ repo dự án và giải nén vào thư mục mong muốn
 hoặc clone repo dự án về từ repo dự án vào thư mục mong muốn
 ```
 
+## Sử dụng
+
+- Chạy file .exe (hoặc file .bat nếu file .exe không khởi chạy được)
+- **Lưu ý: Nếu chạy file .bat thì sau khi thoát ứng dụng nên tắt màn hình cmd (terminal) được mở khi bắt đầu chạy ứng dụng.**
+
 ## Sinh viên thực hiện
 
 | Họ và Tên              | MSSV         | GitHub                                       |
