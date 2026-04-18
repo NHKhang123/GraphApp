@@ -23,6 +23,6 @@ hoặc clone repo dự án về từ repo dự án vào thư mục mong muốn
 | :----------------------| :--------| :------------------------------------------- |
 | **Nguyễn Hoàng Khang** | B2303820 | [@NHKhang123](https://github.com/NHKhang123) |
 
-## Giảng viên
+## Giảng viên hướng dẫn
 
-ThS Phan Huy Cường
+| ThS Phan Huy Cường |
