@@ -19,12 +19,12 @@ hoặc clone repo dự án về từ repo dự án vào thư mục mong muốn
 
 ## Sinh viên thực hiện
 
-| Tên                    | MSSV     | GitHub                                       |
-| :----------------------| :--------| :------------------------------------------- |
-| **Nguyễn Hoàng Khang** | B2303820 | [@NHKhang123](https://github.com/NHKhang123) |
+| Họ và Tên              | MSSV         | GitHub                                       |
+| :--------------------- | :----------- | :------------------------------------------- |
+| **Nguyễn Hoàng Khang** | **B2303820** | [@NHKhang123](https://github.com/NHKhang123) |
 
 ## Giảng viên hướng dẫn
 
-|                    |
-| :----------------- |
-| ThS Phan Huy Cường |
+| Học vị      | Họ và Tên          | MSCB       |
+| :---------- | :------------------| :--------- |
+| **Thạc sĩ** | **Phan Huy Cường** | **001586** |
