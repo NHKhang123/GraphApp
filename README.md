@@ -1,6 +1,6 @@
 # CT239E - Niên luận cơ sở ngành KTPM
 
-Ứng dụng vẽ đồ thị - tìm cây khung tối tiểu
+Ứng dụng vẽ đồ thị - Thuật toán tìm cây khung tối tiểu
 
 ## Công nghệ
 
