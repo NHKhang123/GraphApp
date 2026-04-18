@@ -13,7 +13,7 @@
 ### Thư mục gốc
 
 - Tải file .zip từ repo dự án và giải nén vào thư mục mong muốn.
-- Hoặc clone repo dự án về từ repo dự án vào thư mục mong muốn.
+- Hoặc clone dự án về từ repo dự án vào thư mục mong muốn.
 
 ## Sử dụng
 
